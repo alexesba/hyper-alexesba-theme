@@ -1,0 +1,14 @@
+{
+  "name": "hyperterm-monokai-custom",
+  "version": "0.1.2",
+  "description": "a monokai theme for Hyperterm",
+  "license": "MIT",
+  "repository": "",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
